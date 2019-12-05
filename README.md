@@ -14,3 +14,4 @@
 |<img src="Tommaso%20Cattani/TommasoCattani.jpg" height="200"/> | Tommaso Cattani | Game Design | 1 | [github.com/swingecko](https://github.com/swingecko)<br>[tommasocattani.github.io](https://tommasocattani.github.io/)
 |<img src="Alessandro%20Picchi/AlessandroPicchi.jpg" height="200"/> | Alessandro Picchi | Game Design | 2 | [github.com/PicchiAlessandro](https://github.com/PicchiAlessandro)<br>[picchialessandro.github.io](https://picchialessandro.github.io/)
 |<img src="LauraStella/LauraStella.jpg" height="200"/> | Laura Stella | Concept art | 2 | [github.com/laurastella](https://github.com/laurastella)<br>[laurastella.github.io](https://laurastella.github.io/)
+|<img src="Matteo%20Carboncini/MatteoCarboncini.jpg" height="200"/> | Matteo Carboncini | Game Design | 1 | [github.com/Gaslios](https://github.com/Gaslios)
